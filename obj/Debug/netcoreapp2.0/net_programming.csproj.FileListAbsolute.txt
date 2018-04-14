@@ -1,0 +1,10 @@
+/home/sun/workspace/net_programming/bin/Debug/netcoreapp2.0/net_programming.deps.json
+/home/sun/workspace/net_programming/bin/Debug/netcoreapp2.0/net_programming.runtimeconfig.json
+/home/sun/workspace/net_programming/bin/Debug/netcoreapp2.0/net_programming.runtimeconfig.dev.json
+/home/sun/workspace/net_programming/bin/Debug/netcoreapp2.0/net_programming.dll
+/home/sun/workspace/net_programming/bin/Debug/netcoreapp2.0/net_programming.pdb
+/home/sun/workspace/net_programming/obj/Debug/netcoreapp2.0/net_programming.csproj.CoreCompileInputs.cache
+/home/sun/workspace/net_programming/obj/Debug/netcoreapp2.0/net_programming.AssemblyInfoInputs.cache
+/home/sun/workspace/net_programming/obj/Debug/netcoreapp2.0/net_programming.AssemblyInfo.cs
+/home/sun/workspace/net_programming/obj/Debug/netcoreapp2.0/net_programming.dll
+/home/sun/workspace/net_programming/obj/Debug/netcoreapp2.0/net_programming.pdb
